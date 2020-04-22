@@ -1,3 +1,7 @@
+# MyTravelWishlistWebsite
+
+A website that helps people create a catalogue of places they wish to visit
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
